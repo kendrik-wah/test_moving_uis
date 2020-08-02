@@ -10,5 +10,9 @@ Here is my attempt to do this.
 Various effects in other websites that caught my interest are replicated and implemented here, along with the use of various other peripherals like fonts that might improve the aesthetics of the user interface.
 
 Also, I decided to try and learn how to use basic GitHub command line instructions! I figured that since I wanted to host this, I might as well learn Git as well.
+References used:
+
+1) https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f - How to deploy a React App in GitHub Pages.
+2) https://www.neonscience.org/git-setup-remote - Git Update with Remote.
 
 ## I hope you enjoy this!
