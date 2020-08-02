@@ -2,6 +2,7 @@
   "name": "test_moving_uis",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://kendrik-wah.github.io/test_moving_uis"
   "dependencies": {
     "@material-ui/core": "^4.10.1",
     "@testing-library/jest-dom": "^4.2.4",
@@ -15,6 +16,8 @@
     "styled-icons": "^10.2.1"
   },
   "scripts": {
+    "predeploy": "npm install run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
