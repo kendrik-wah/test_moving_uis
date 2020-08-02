@@ -1,0 +1,27 @@
+.NavigationBar {
+  width: 100vw;
+  opacity: 1.0;
+  background-color: #282c34;
+}
+
+.NavigationBar-Top {
+  display: flex;
+  height: 120px;
+
+}
+
+.top-title {
+  position: relative;
+  float: left;
+  margin: 0.5% 1%;
+  width: 67%;
+
+}
+
+.top-icons {
+  position: relative;
+  float: right;
+  height: auto;
+  margin: 2.25% 0% 0% 0%;
+  width: 33%;
+}

@@ -1,0 +1,14 @@
+.reasons {
+  align-items: center;
+  width: 30vw;
+  padding-top: 150px;
+}
+
+.reasons-header {
+  font-size: 36px;
+}
+
+.reasons-paragraph {
+  text-align: left;
+  font-size: 15px;
+}

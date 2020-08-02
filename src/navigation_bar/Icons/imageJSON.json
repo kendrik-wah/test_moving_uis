@@ -1,0 +1,10 @@
+{
+  "names": ["Wordpress", "Github", "Google", "PersonOutline", "Linkedin","Map"],
+  "links": ["https://touchfromanotherworld.wordpress.com/",
+            "https://github.com/",
+            "https://www.google.com/",
+            "https://blacklivesmatter.com/",
+            "https://www.linkedin.com/",
+            "https://coronavirus.thebaselab.com/"],
+  "hoverText": ["blog", "repository", "search", "blacklivesmatter", "network", "coronavirus"]
+}

@@ -1,0 +1,10 @@
+.icons {
+  float: right;
+  display: flex;
+  margin: 0% 20% 0% 0%;
+
+}
+
+.icon {
+  margin: auto;
+}
