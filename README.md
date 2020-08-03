@@ -15,5 +15,7 @@ References used:
 1) https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f - How to deploy a React App in GitHub Pages.
 2) https://www.neonscience.org/git-setup-remote - Git Update with Remote.
 3) https://medium.com/@jenniferdobak/the-public-folder-and-favicons-in-create-react-app-8dc2cc1d492b - How to remove React Manifest placeholder text.
+4) https://css-tricks.com/essential-meta-tags-social-media/ - How to add "meta tags" to change placeholder text in link previews.
+5) https://stackoverflow.com/questions/35268940/how-to-force-telegram-to-update-link-preview - How to refresh caching to show updated link preview for Telegram.
 
 ## I hope you enjoy this!
