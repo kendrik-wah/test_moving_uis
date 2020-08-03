@@ -19,7 +19,7 @@
     "styled-icons": "^10.2.1"
   },
   "scripts": {
-    "predeploy": "npm install run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
