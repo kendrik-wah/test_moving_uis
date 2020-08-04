@@ -1,0 +1,66 @@
+.frame2-div {
+  display: flex;
+  align-items: center;
+
+  width: 100vw;
+  max-width: fill;
+  height: 70vh;
+  max-height: fill;
+
+  background-color: rgba(255,255,255,1);
+  margin-top: 10%;
+
+  transform: translateX(300em);
+  transition: transform 4s .25s cubic-bezier(0,0.5,0.5,1),
+              opacity .3s .25s ease-out;
+}
+
+.frame2-content-div {
+  position: absolute;
+  left: 150px;
+
+}
+
+.frame2-text {
+  font-size: 600%;
+
+  transform: inherit;
+  transition: inherit;
+  will-change: transform;
+}
+
+.frame2-img {
+
+  border: 1em solid #fff;
+  border-bottom: 3em solid #fff;
+  border-radius: .25em;
+  box-shadow: 1em 1em 2em .25em rgba(0,0,0,.2);
+
+  margin: 2em auto;
+  opacity: 0;
+
+  max-width: 300px;
+  width: 90%;
+
+  transform: inherit;
+  transition: inherit;
+  will-change: transform, opacity;
+}
+
+.frame2-div.is-visible {
+  background-color: rgba(255,255,255,0.5);
+  transform: rotateZ(0deg);
+}
+
+.frame2-content-div.is-visible {
+  transform: rotateZ(0deg);
+}
+
+.frame2-text.is-visible {
+  transform: rotateZ(0deg);
+}
+
+.frame2-img.is-visible {
+  opacity: 1;
+  transform: rotateZ(-2deg);
+}
