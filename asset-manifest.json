@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/test_moving_uis/static/css/main.fde4dfca.chunk.css",
-    "main.js": "/test_moving_uis/static/js/main.fb2f25a4.chunk.js",
-    "main.js.map": "/test_moving_uis/static/js/main.fb2f25a4.chunk.js.map",
+    "main.css": "/test_moving_uis/static/css/main.45fbdff7.chunk.css",
+    "main.js": "/test_moving_uis/static/js/main.e02d3523.chunk.js",
+    "main.js.map": "/test_moving_uis/static/js/main.e02d3523.chunk.js.map",
     "runtime-main.js": "/test_moving_uis/static/js/runtime-main.5119c561.js",
     "runtime-main.js.map": "/test_moving_uis/static/js/runtime-main.5119c561.js.map",
-    "static/js/2.871d4ed2.chunk.js": "/test_moving_uis/static/js/2.871d4ed2.chunk.js",
-    "static/js/2.871d4ed2.chunk.js.map": "/test_moving_uis/static/js/2.871d4ed2.chunk.js.map",
+    "static/js/2.3dbd0bd8.chunk.js": "/test_moving_uis/static/js/2.3dbd0bd8.chunk.js",
+    "static/js/2.3dbd0bd8.chunk.js.map": "/test_moving_uis/static/js/2.3dbd0bd8.chunk.js.map",
     "index.html": "/test_moving_uis/index.html",
-    "precache-manifest.082e4595e57f2bf80b06969c7b729149.js": "/test_moving_uis/precache-manifest.082e4595e57f2bf80b06969c7b729149.js",
+    "precache-manifest.06337fabd704b94d9e3e488d4c9712d1.js": "/test_moving_uis/precache-manifest.06337fabd704b94d9e3e488d4c9712d1.js",
     "service-worker.js": "/test_moving_uis/service-worker.js",
-    "static/css/main.fde4dfca.chunk.css.map": "/test_moving_uis/static/css/main.fde4dfca.chunk.css.map",
-    "static/js/2.871d4ed2.chunk.js.LICENSE.txt": "/test_moving_uis/static/js/2.871d4ed2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/test_moving_uis/static/media/logo.5d5d9eef.svg"
+    "static/css/main.45fbdff7.chunk.css.map": "/test_moving_uis/static/css/main.45fbdff7.chunk.css.map",
+    "static/js/2.3dbd0bd8.chunk.js.LICENSE.txt": "/test_moving_uis/static/js/2.3dbd0bd8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/test_moving_uis/static/media/logo.5d5d9eef.svg",
+    "static/media/App.css": "/test_moving_uis/static/media/purpose_a_busy_town.46bab4dd.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.5119c561.js",
-    "static/js/2.871d4ed2.chunk.js",
-    "static/css/main.fde4dfca.chunk.css",
-    "static/js/main.fb2f25a4.chunk.js"
+    "static/js/2.3dbd0bd8.chunk.js",
+    "static/css/main.45fbdff7.chunk.css",
+    "static/js/main.e02d3523.chunk.js"
   ]
 }
