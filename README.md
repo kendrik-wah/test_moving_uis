@@ -18,5 +18,6 @@ References used:
 4) https://css-tricks.com/essential-meta-tags-social-media/ - How to add `<meta>` to change placeholder text in link previews.
 5) https://stackoverflow.com/questions/35268940/how-to-force-telegram-to-update-link-preview - How to refresh caching to show updated link preview for Telegram.
 6) https://gist.github.com/lancejpollard/1978404 - Complete list of `<meta>` tags.
+7) https://www.apple.com/sg/iphone-11-pro/ - Inspiration for the rotating camera lenses.
 
 ## I hope you enjoy this!
