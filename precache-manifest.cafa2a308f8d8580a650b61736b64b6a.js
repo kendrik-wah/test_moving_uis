@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f01a68a889bd17df01686aeb9ece89eb",
+    "revision": "56c65a8128d49d075ca8b11d9ddb5274",
     "url": "/test_moving_uis/index.html"
   },
   {
-    "revision": "8ebe79ad5e5499da9d7e",
-    "url": "/test_moving_uis/static/css/main.45fbdff7.chunk.css"
+    "revision": "0755cc5b7c483bedc134",
+    "url": "/test_moving_uis/static/css/main.d378809f.chunk.css"
   },
   {
     "revision": "06cc7e55815f2c91d979",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test_moving_uis/static/js/2.3dbd0bd8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ebe79ad5e5499da9d7e",
-    "url": "/test_moving_uis/static/js/main.e02d3523.chunk.js"
+    "revision": "0755cc5b7c483bedc134",
+    "url": "/test_moving_uis/static/js/main.3ba17b7e.chunk.js"
   },
   {
     "revision": "ca78fd5c17a8f571d21d",
     "url": "/test_moving_uis/static/js/runtime-main.5119c561.js"
+  },
+  {
+    "revision": "cac932ca469c485b25f8133603e09d89",
+    "url": "/test_moving_uis/static/media/camera_lens.cac932ca.jpg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
