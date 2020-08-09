@@ -1,66 +1,92 @@
 .frame2-div {
+  width: stretch;
+  max-width: stretch;
+  height: stretch;
+  max-height: stretch;
+
   display: flex;
-  align-items: center;
+  flex-direction: row;
+  /* align-items: center;
+  justify-content: center; */
 
-  width: 100vw;
-  max-width: fill;
-  height: 70vh;
-  max-height: fill;
-
-  background-color: rgba(255,255,255,1);
-  margin-top: 10%;
-
-  transform: translateX(300em);
-  transition: transform 4s .25s cubic-bezier(0,0.5,0.5,1),
-              opacity .3s .25s ease-out;
+  position: sticky;
+  /* overflow: hidden; */
 }
 
-.frame2-content-div {
-  position: absolute;
-  left: 150px;
-
+.frame2-text-div {
+  margin:auto;
+  width: auto;
+  text-align: center;
 }
 
 .frame2-text {
-  font-size: 600%;
+  font-size: 200%;
+  margin: auto;
+  width: 150%;
+  padding-left: 12.5%;
+}
 
-  transform: inherit;
-  transition: inherit;
-  will-change: transform;
+.frame2-text.top {
+  padding-bottom: 5%;
+}
+
+.frame2-text.bottom {
+  padding-top: 7.5%;
+}
+
+.frame2-h2 {
+  margin: auto;
+  padding-left: 12.5%;
+  width: 150%;
+  font-size: 400%;
+}
+
+.frame2-lens-div {
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  justify-content: center;
+
+  width: 1000px;
+  height: 1000px;
+
+  transform-origin: center right;
+  /* border: 1px solid black; */
+
+  margin: 0;
+  float: right;
+
+}
+
+.frame2-img-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  width: 100px;
+  height: 100px;
+  position: absolute;
 }
 
 .frame2-img {
-
-  border: 1em solid #fff;
-  border-bottom: 3em solid #fff;
-  border-radius: .25em;
-  box-shadow: 1em 1em 2em .25em rgba(0,0,0,.2);
-
-  margin: 2em auto;
-  opacity: 0;
-
-  max-width: 300px;
-  width: 90%;
-
-  transform: inherit;
-  transition: inherit;
-  will-change: transform, opacity;
+  height: 300px;
+  width: 300px;
+  content: url("./frame2_images/camera_lens.jpg");
 }
 
-.frame2-div.is-visible {
-  background-color: rgba(255,255,255,0.5);
-  transform: rotateZ(0deg);
+.frame2-img-div.first {
+  top: 27.5%;
+  right: -25%;
 }
 
-.frame2-content-div.is-visible {
-  transform: rotateZ(0deg);
+.frame2-img-div.second {
+  top: 44.75%;
+  right: 5%;
 }
 
-.frame2-text.is-visible {
-  transform: rotateZ(0deg);
-}
+.frame2-img-div.third {
+  bottom: 27.5%;
+  right: -25%;
 
-.frame2-img.is-visible {
-  opacity: 1;
-  transform: rotateZ(-2deg);
 }

@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
   background-color: #282c34;
   background-size: auto;
   height: 100%;
@@ -40,6 +40,22 @@
   background-image: url('./frame1/frame1_images/purpose_a_busy_town.gif');
   background-repeat: no-repeat, no-repeat;
   background-size: cover;
+}
+
+.Frame2-header {
+  margin: 0;
+
+  width: auto;
+  height: auto;
+
+  background-color: rgb(0,222,241);
+}
+
+.Frame2-frame {
+  display: inline-flex;
+
+  width: stretch;
+  height: stretch;
 }
 
 .pulse {

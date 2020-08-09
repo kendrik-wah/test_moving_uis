@@ -28,7 +28,13 @@ function App() {
 
       <div className="Frame1-header" id="Frame1-header">
         <div className="Frame1-frame">
-          <Frame1 onLoad={Frame1.handleShow}/>
+          <Frame1 />
+        </div>
+      </div>
+
+      <div className="Frame2-header" id="Frame2-header">
+        <div className="Frame2-frame">
+          <Frame2 />
         </div>
       </div>
 
